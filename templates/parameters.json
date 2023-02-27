@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "projectName": {
+            "value": "cntbpademo1"
+          },
+          "repositoryToken": {
+            "value": "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"
+          },
+          "repositoryUrl": {
+            "value": "https://github.com/CKThompson00/business-process-automation"
+          }
+    }
+}
